@@ -1,1 +1,1 @@
-# uffinance-quant
+# UFFinance Finanças Quantitativas
